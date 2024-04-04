@@ -1,0 +1,9 @@
+[package]
+name = "solana-ido"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-program = "1.18.9"
+solana-rpc-client = "1.18.9"
+solana-sdk = "1.18.9"
