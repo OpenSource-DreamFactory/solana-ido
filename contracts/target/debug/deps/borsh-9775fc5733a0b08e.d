@@ -1,0 +1,11 @@
+D:\web\project\solana-ido\contracts\target\debug\deps\libborsh-9775fc5733a0b08e.rmeta: C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src/lib.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\de\mod.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\de\hint.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\schema.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\schema_helpers.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\ser\mod.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\ser\helpers.rs
+
+D:\web\project\solana-ido\contracts\target\debug\deps\borsh-9775fc5733a0b08e.d: C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src/lib.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\de\mod.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\de\hint.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\schema.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\schema_helpers.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\ser\mod.rs C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\ser\helpers.rs
+
+C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src/lib.rs:
+C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\de\mod.rs:
+C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\de\hint.rs:
+C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\schema.rs:
+C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\schema_helpers.rs:
+C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\ser\mod.rs:
+C:\Users\往东\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\borsh-0.10.3\src\ser\helpers.rs:
