@@ -1,4 +1,6 @@
 ### Product Overview
+pitchdeck:
+https://www.slideshare.net/slideshow/decentralized-launchpad-providing-a-safe-and-transparent-fundraising/267127464
 
 Our product is a decentralized Launchpad based on the Solana platform, designed to automate the entire Initial DEX Offering (IDO) process, including project launch, fundraising, and token distribution. Users can purchase tokens directly through the smart contract and claim their tokens autonomously after the presale period. If a project fails to meet its funding target, the contract will automatically issue a full refund to investors, ensuring their funds are safeguarded.
 
